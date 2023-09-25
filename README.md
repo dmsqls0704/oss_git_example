@@ -37,10 +37,19 @@
 
 -------------
 ### _Week3_     Markdown
-1. 이런내용
+#### 1. Italics and Bold
+  * _Italics_
+  * **bold**
+#### 2. Headers
   * 111
   * 222
-2. 저런내용
-  * 111
-  * 222
+#### 3. Links
+  * [Links](https://www.markdowntutorial.com)
+#### 4. Images
+#### 5. Blockquotes
+  * >blockquotes
+#### 6. lists
+  * 1
+  * 2
+#### 7. Paragraphs
  
